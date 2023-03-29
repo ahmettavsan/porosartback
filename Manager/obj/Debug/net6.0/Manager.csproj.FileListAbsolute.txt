@@ -1,0 +1,17 @@
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\bin\Debug\net6.0\Manager.deps.json
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\bin\Debug\net6.0\Manager.dll
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\bin\Debug\net6.0\Manager.pdb
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\bin\Debug\net6.0\Core.dll
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\bin\Debug\net6.0\Repository.dll
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\bin\Debug\net6.0\Repository.pdb
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\bin\Debug\net6.0\Core.pdb
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\obj\Debug\net6.0\Manager.csproj.AssemblyReference.cache
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\obj\Debug\net6.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\obj\Debug\net6.0\Manager.AssemblyInfoInputs.cache
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\obj\Debug\net6.0\Manager.AssemblyInfo.cs
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\obj\Debug\net6.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\obj\Debug\net6.0\Manager.csproj.CopyComplete
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\obj\Debug\net6.0\Manager.dll
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\obj\Debug\net6.0\refint\Manager.dll
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\obj\Debug\net6.0\Manager.pdb
+C:\Users\Z004RFRA\source\repos\PorosArt\Manager\obj\Debug\net6.0\ref\Manager.dll
